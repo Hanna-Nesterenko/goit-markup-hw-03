@@ -1,0 +1,21 @@
+.portfolio {
+}
+
+.portfolio-title {
+}
+
+.portfolio-list {
+}
+.portfolio-item {
+  background-color: var(--white);
+}
+.portfolio-pic {
+}
+.portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: var(--navy-blue);
+}
+.portfolio-caption {
+}
