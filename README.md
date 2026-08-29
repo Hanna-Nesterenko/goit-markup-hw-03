@@ -1,3 +1,3 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 
-This is home work 02 for the HTML and CSS course.
+Модуль 3. Блокова модель. Flexbox
